@@ -71,10 +71,16 @@ El proyecto se divide en:
 ---
 ## 5. Diagramas UML
 
-* **Casos de uso:** <img width="588" height="737" alt="image" src="https://github.com/user-attachments/assets/3a83f02c-1bc4-4e68-89e2-bcb71e1f72a3" />
-* **Paquetes:** <img width="1173" height="622" alt="image" src="https://github.com/user-attachments/assets/753e2efd-bd32-4541-a1ae-ab6a0db53a33" />
-* **Clases general:** <img width="1376" height="697" alt="image" src="https://github.com/user-attachments/assets/96383182-16b0-4207-bde2-cf230f0a1878" />
-* **Estados del pedido:** <img width="325" height="767" alt="image" src="https://github.com/user-attachments/assets/d6c2daec-ae8a-4cc1-933b-37c2f7e3a4b9" />
-* **Secuencia (flujo principal):** <img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/cc90481a-4c54-425b-b926-ee7486d6485e" />
-* **Clases por patrón:** <img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/f416e6bf-601c-4cbc-8049-a474bb7ac251" />
+* **Casos de uso:**
+  <img width="588" height="737" alt="image" src="https://github.com/user-attachments/assets/3a83f02c-1bc4-4e68-89e2-bcb71e1f72a3" />
+* **Paquetes:**
+  <img width="1173" height="622" alt="image" src="https://github.com/user-attachments/assets/753e2efd-bd32-4541-a1ae-ab6a0db53a33" />
+* **Clases general:**
+  <img width="1376" height="697" alt="image" src="https://github.com/user-attachments/assets/96383182-16b0-4207-bde2-cf230f0a1878" />
+* **Estados del pedido:**
+  <img width="325" height="767" alt="image" src="https://github.com/user-attachments/assets/d6c2daec-ae8a-4cc1-933b-37c2f7e3a4b9" />
+* **Secuencia (flujo principal):**
+  <img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/cc90481a-4c54-425b-b926-ee7486d6485e" />
+* **Clases por patrón:**
+  <img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/f416e6bf-601c-4cbc-8049-a474bb7ac251" />
 ---

@@ -87,6 +87,6 @@ El proyecto se divide en:
   
  <img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/cc90481a-4c54-425b-b926-ee7486d6485e" />
 * **Clases por patrón:**
-  
+  *
   <img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/f416e6bf-601c-4cbc-8049-a474bb7ac251" />
 ---

@@ -62,3 +62,10 @@
 * **Ventajas, desventajas y SOLID:** Facilita probar cada promoción por separado y agregar nuevas reglas sin tocar `Pedido` (**SRP**, **OCP** y **DIP**). Como desventaja, requiere instanciar o seleccionar la estrategia correspondiente.
 
 ---
+## 4. Arquitectura general
+El proyecto se divide en:
+* **`model` y `patterns`:** Entidades (`Producto`, `ProductoBase`, `Pedido`) y patrones (`decorator`, `builder`, `state`, `observer`, `strategy`).
+* **`service` (`CafeteriaService`):** Punto central de operaciones (menú, adiciones, combos, pedidos, estados y cierre de caja).
+* **`ui.console` y `ui.gui`:** Interfaz de consola e interfaz gráfica Swing que consumen `CafeteriaService` sin duplicar reglas de negocio.
+
+---

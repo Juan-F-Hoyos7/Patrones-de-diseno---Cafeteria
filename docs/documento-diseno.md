@@ -69,3 +69,13 @@ El proyecto se divide en:
 * **`ui.console` y `ui.gui`:** Interfaz de consola e interfaz gráfica Swing que consumen `CafeteriaService` sin duplicar reglas de negocio.
 
 ---
+## 5. Diagramas UML
+
+* **Casos de uso:** 
+* **Paquetes:** <img width="1173" height="622" alt="image" src="https://github.com/user-attachments/assets/753e2efd-bd32-4541-a1ae-ab6a0db53a33" />
+* **Clases general:** <img width="1376" height="697" alt="image" src="https://github.com/user-attachments/assets/96383182-16b0-4207-bde2-cf230f0a1878" />
+* **Estados del pedido:** 
+* **Secuencia (flujo principal):** 
+* **Clases por patrón:** 
+
+---

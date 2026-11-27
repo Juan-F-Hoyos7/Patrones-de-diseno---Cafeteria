@@ -2,6 +2,11 @@
 
 Aplicación en Java para gestionar pedidos de cafetería mediante un núcleo compartido (`CafeteriaService` y modelo de dominio) con soporte para **consola**, **interfaz gráfica (Swing)** y **pruebas unitarias con JUnit 5**.
 
+## Integrantes
+
+* **Juan Felipe Hoyos Bernate**
+* **David Santiago Bernal Vargas**
+
 ## Patrones de diseño implementados
 
 * **Builder (`Combo`, `Combo.ComboBuilder`):** Construcción paso a paso de combos validando componentes obligatorios y aplicando descuentos.

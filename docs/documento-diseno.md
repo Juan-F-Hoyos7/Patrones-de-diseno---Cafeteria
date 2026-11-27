@@ -72,22 +72,46 @@ El proyecto se divide en:
 ## 5. Diagramas UML
 
 * **Casos de uso:**
+
   
   <img width="588" height="737" alt="image" src="https://github.com/user-attachments/assets/3a83f02c-1bc4-4e68-89e2-bcb71e1f72a3" />
 * **Paquetes:**
+
   
   <img width="1173" height="622" alt="image" src="https://github.com/user-attachments/assets/753e2efd-bd32-4541-a1ae-ab6a0db53a33" />
 * **Clases general:**
+
   
    <img width="1376" height="697" alt="image" src="https://github.com/user-attachments/assets/96383182-16b0-4207-bde2-cf230f0a1878" />
 * **Estados del pedido:**
+
   
   <img width="325" height="767" alt="image" src="https://github.com/user-attachments/assets/d6c2daec-ae8a-4cc1-933b-37c2f7e3a4b9" />
 * **Secuencia (flujo principal):**
+
   
  <img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/cc90481a-4c54-425b-b926-ee7486d6485e" />
- **Clases por patrón:**
-  
+
+ ## **Clases por patrón:**
+
+
+* **Patrón Decorator**
   <img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/f416e6bf-601c-4cbc-8049-a474bb7ac251" />
+
+
+* **Patrón Builder:**
+  <img width="811" height="725" alt="image" src="https://github.com/user-attachments/assets/752a393c-70c1-4f56-98b0-36bd875312b3" />
+
+* **Patrón State:**
+  <img width="491" height="813" alt="image" src="https://github.com/user-attachments/assets/17917d5d-d287-4f57-9281-014221553f97" />
+
+
+* **Patrón Observer:**
+  <img width="1056" height="680" alt="image" src="https://github.com/user-attachments/assets/875e0114-638a-475b-b2f9-53ff078e7ee2" />
+
+
+* **Patrón Strategy:**
+ <img width="1367" height="586" alt="image" src="https://github.com/user-attachments/assets/94a454f2-6046-40a0-b5ec-86363fdb4a61" />
+
   
 ---

@@ -1,3 +1,4 @@
+
 package com.cafeteria.model;
 
 import com.cafeteria.patterns.observer.PedidoObserver;
@@ -24,7 +25,7 @@ public class Pedido {
     public Pedido(int id, PromocionStrategy promocion) {
         this.id = id;
         this.promocion = (promocion != null) ? promocion : new SinPromocionStrategy();
-        this.estado = new EstadoCreado();
+        this.estado = new EstadoPedido();
     }
 
     public int getId() {
@@ -69,7 +70,7 @@ public class Pedido {
         return estado.getNombre();
     }
 
-    public EstadoPedido getEstado() {
+    public com.cafeteria.model.EstadoPedido getEstado() {
         return estado;
     }
 
